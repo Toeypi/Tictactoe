@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+}
+
+h1{
+	text-align: center;
+	margin: 0;
+}
+td{
+	width: 200px;
+	height: 200px;
+	font-size: 85px;
+	text-align: center;
+}
+#stripe {
+	text-align: center;
+	height: 30px;
+	font-size: 125%;
+}
+
+#message{
+	display: inline-block;
+	width: 400px;
+}
+#o{
+	border-right: solid black;
+	border-bottom: solid black;
+	border-width: 2.5px;
+}
+#tw{
+
+	border-bottom: solid black;
+	border-width: 2.5px;
+}
+#thr{
+
+	border-right: solid black;
+	border-width: 2.5px;
+}
+
+
+#board{
+	margin: 30px auto;
+	max-width: 1500px;
+}
